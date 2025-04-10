@@ -1,3 +1,5 @@
+![](https://media.licdn.com/dms/image/v2/D4E16AQEEjmRixk0eMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726802830010?e=1749686400&v=beta&t=H5YyLu0EoWp8S4u1leCzS0Oa7-HzWxYISnUj7wxCcHo)
+
 # 👋 Hi, I’m Nick Harty
 
 **Digital Health Entrepreneur | Story-Driven Filmmaker | Wearable/IoMT Innovator**  
