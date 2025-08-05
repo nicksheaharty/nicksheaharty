@@ -1,59 +1,55 @@
-![](https://media.licdn.com/dms/image/v2/D4E16AQEEjmRixk0eMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726802830010?e=1749686400&v=beta&t=H5YyLu0EoWp8S4u1leCzS0Oa7-HzWxYISnUj7wxCcHo)
+# Hi there 👋 I'm Nick Harty
 
-# 👋 Hi, I’m Nick Harty
-
-**Digital Health Entrepreneur | Story-Driven Filmmaker | Wearable/IoMT Innovator**  
-Founder & CEO @ [Medibound](https://medibound.com) | Executive Director @ AstroLab  
-Electrical Engineering @ Penn Engineering | Healthcare Management @ Wharton  
-[🌐 nickharty.com](http://nickharty.com) | [🎥 IMDB](https://www.imdb.com/title/tt34880261) | 📍 NYC Metro Area  
+**Healthtech Innovator & Feel-Good Filmmaker | Founder @ [Medibound](https://medibound.com) | EE & Healthcare Management @ UPenn/Wharton
 
 ---
 
-## 💡 About Me
+## 🚀 What I’m Building
+I’m the technical founder of **Medibound** — an **AI‑native healthcare cloud** that lets clinics launch **agentic monitoring workflows** in minutes.  
+We connect BLE sensors, vitals monitors, and wearables; trigger HIPAA‑safe variables from real‑time data; integrate with EHRs; and automate care — **no code required**.  
+Think *Firebase for AI healthcare* — variable‑driven, compliance‑ready, and built so clinics can **monitor more patients, triage faster, and act on what matters**.
 
-Hi! I’m Nick Harty, a student at the University of Pennsylvania where I study Electrical Engineering and Healthcare Management. My work sits at the intersection of technology, design, and storytelling—with a mission to make healthcare more accessible and impactful.
-
-### 🚀 What I’m Building
-
-**Medibound**  
-We're bridging the gap between testing and treatment through a unified IoMT platform.  
-- 🧰 No-code drag-and-drop device backend  
-- 📲 AI-driven mobile app for real-time diagnostics  
-- 🔒 HIPAA-compliant, FHIR-compatible infrastructure  
-- 🌍 Designed for startups, educators, and device manufacturers alike
-
-**AstroLab**  
-AI-integrated wearables for astronaut diagnostics, starting with a MEMS-based OCT system for detecting SANS.  
-- 🌌 Space-ready diagnostics  
-- 🧠 AI + IoMT for neural and retinal health  
-- 🚀 Built in collaboration with Penn NASA and Medibound
+🎥 Outside of Medibound, I’m also a filmmaker, directing short films like *[Live A+ Little](https://www.youtube.com/watch?v=a4JM38IOfnA)* that blend storytelling with technical craft.
 
 ---
 
-## 🎥 What I’m Creating
-
-**Live A+ Little (2024)**  
-A feel-good indie short exploring digital detox, reconnection, and intergenerational learning through photography.  
-- 🎬 Directed, wrote, and edited  
-- 📸 Blends technical composition with emotional storytelling  
-- 📽️ View it on [IMDB](https://www.imdb.com/title/tt34880261)
-
----
-
-## 🧠 My Mantras
-
-- "Your health in your hands."  
-- "We help you go from testing to treatment—seamlessly."  
-- "We’re building a data standard for the age of at-home care."
+## 🛠️ Things I’ve Built
+- **[Medibound](https://medibound.com)** – AI‑native RPM workflows, usage‑based billing, device‑agnostic integration.
+- **[AstroLab](https://portfolio.nickharty.com)** – AI‑integrated wearable diagnostics for astronaut health.
+- **[VisionBound](https://portfolio.nickharty.com)** – Low‑cost retinal imaging with ML diabetic retinopathy detection.
+- **[Pathways](https://portfolio.nickharty.com)** – UWB white cane attachment for urban navigation & remote monitoring.
+- **[Legismaker](https://app.legismaker.com/)** – AI bill analyzer & compromise generator.
+- **[Bedsidekick](https://github.com/nicksheaharty/bedsidekick-app)** – AI‑powered hospital vocal companion.
+- **[FHIRBand](https://devpost.com/software/fhirband)** – Wearable for LA first responders.
+- And more on [GitHub](https://github.com/nicksheaharty).
 
 ---
 
-## 📫 Let’s Connect
+## 🏆 Selected Awards
+- 🥇 **Invention Convention National** – 1st Place  
+- 🥇 **FIRST Global Innovation Award** – 1st Place  
+- 🥇 **Ballard Spahr Pitch Competition** – Winner  
+- 🎬 **Penn‑in‑Cannes & Santa Barbara Film Festival Scholar**  
+- 🏆 **DECA Internationals** – 3rd Place  
+- 🎓 **ISEF Finalist**  
 
-- Email: hartyn@seas.upenn.edu  
-- Website: [nickharty.com](http://nickharty.com)  
-- Portfolio: [portfolio.nickharty.com](http://portfolio.nickharty.com)  
-- Instagram: [@medibound](https://instagram.com/medibound)
+Full list → [LinkedIn](https://www.linkedin.com/in/nicksheaharty)
 
 ---
-> *Built at the edge of medicine, space, and story.*
+
+## 💻 Skills
+**Tech:** Java, Python, Flutter, Swift, React Native/JS, GCP, FHIR/HL7, IoT Dev, ML (CNN/KNN, YOLO), OpenCV  
+**Design:** Figma, Photoshop, Illustrator, InDesign, Premiere, After Effects, Fusion360, Altium  
+**Creative:** Cinematography, Directing, Narrative Design  
+
+---
+
+## 🌐 Let’s Connect
+- 📧 **Email:** hartyn@seas.upenn.edu  
+- 🌎 **Portfolio:** [portfolio.nickharty.com](https://portfolio.nickharty.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/nicksheaharty](https://www.linkedin.com/in/nicksheaharty)  
+- 🎥 **Film Portfolio:** [film.nickharty.com](https://film.nickharty.com)  
+
+---
+
+> *"Testing is the first step toward treatment — let’s make it faster, smarter, and more accessible."*
