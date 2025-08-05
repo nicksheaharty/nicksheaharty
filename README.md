@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nick Harty
 
-**Healthtech Innovator & Feel-Good Filmmaker | Founder @ [Medibound](https://medibound.com) | EE & Healthcare Management @ UPenn/Wharton
+**Healthtech Innovator & Feel-Good Filmmaker** | Founder @ [Medibound](https://medibound.com) | EE & Healthcare Management @ UPenn/Wharton
 
 ---
 
