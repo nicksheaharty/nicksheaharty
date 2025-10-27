@@ -45,7 +45,6 @@ Full list → [LinkedIn](https://www.linkedin.com/in/nicksheaharty)
 ---
 
 ## 🌐 Let’s Connect
-- 📧 **Email:** hartyn@seas.upenn.edu  
 - 🌎 **Portfolio:** [portfolio.nickharty.com](https://portfolio.nickharty.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/nicksheaharty](https://www.linkedin.com/in/nicksheaharty)  
 - 🎥 **Film Portfolio:** [film.nickharty.com](https://film.nickharty.com)  
